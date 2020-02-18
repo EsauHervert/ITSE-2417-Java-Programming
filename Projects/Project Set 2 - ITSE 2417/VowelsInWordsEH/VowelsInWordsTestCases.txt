@@ -1,0 +1,17 @@
+Test 1
+**********************************************************************************
+
+Enter a word: sequoia
+SEQUOIA - ALL, NOT IN ORDER
+
+Test 2
+**********************************************************************************
+
+Enter a word: facetious
+FACETIOUS - ALL, IN ORDER
+
+Test 3
+**********************************************************************************
+
+Enter a word: butterfly
+BUTTERFLY - DOES NOT CONTAIN A I O 

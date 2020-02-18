@@ -1,0 +1,54 @@
+Test 1
+******************************************************************************************************************
+
+Enter a double value: 2.5
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: W
+
+Enter a double value: 5.5
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: R
+
+Done Writting
+Here are the double values: 
+2.5
+5.5
+
+Number of doubles: 2
+Average: 4.0
+
+Test 2
+******************************************************************************************************************
+
+Enter a double value: 1.1
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: W
+
+Enter a double value: 2.2
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: W
+
+Enter a double value: -3.3
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: W
+
+Enter a double value: 4.4
+
+Would you like to write to the file or would you like to read the information?
+Enter W for Write or R for Read: R
+
+Done Writting
+
+Here are the double values: 
+1.1
+2.2
+-3.3
+4.4
+
+Number of doubles: 4
+Average: 1.1

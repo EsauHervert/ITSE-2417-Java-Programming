@@ -1,0 +1,25 @@
+Test
+******************************************************************************************************************
+
+File name: C:\Users\EsauH\Desktop\wrestle.txt
+
+Match 1
+Blue Winner- Technical Points: 2-1
+             Classification Points: PP 3:1
+
+Match 2
+Blue Winner- Technical Points: 3-0
+             Classification Points: PO 3:0
+
+Match 3
+Red Winner- Technical Points: 7-4
+             Classification Points: PP 3:1
+
+Match 4
+Blue Winner- Technical Points: 2-2
+             Classification Points: PP 3:1
+
+Match 5
+Blue Winner- Technical Points: 2-2
+             Classification Points: PP 3:1
+

@@ -1,0 +1,39 @@
+Test 1
+===========================================================================================
+
+This Program will take in two values between 1 and 3000 and see if they are sexy.
+
+The first number is: 641
+The second number is: 647
+
+The numbers are:
+Number 1: 641
+Number 2: 647
+
+These numbers are sexy primes ;-).
+
+
+Enter any numeric value to end this program: 1
+
+Test 2
+=============================================================================================
+
+This Program will take in two values between 1 and 3000 and see if they are sexy.
+
+The first number is: -1
+That is not a valid value.
+
+The first number is: 3001
+That is not a valid value.
+
+The first number is: 1
+The second number is: 7
+
+The numbers are:
+Number 1: 1
+Number 2: 7
+
+These numbers are not sexy primes :(.
+
+
+Enter any numeric value to end this program: 1

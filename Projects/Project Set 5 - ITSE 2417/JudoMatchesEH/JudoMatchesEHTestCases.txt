@@ -1,0 +1,58 @@
+Test 1
+******************************************************************************************************************
+
+Enter the file directory: C:\Users\EsauH\Desktop\judo.txt
+
+Match 1
+       I W Y P
+Blue : 0 0 1 0
+White: 0 0 0 0
+===============
+Blue winner by Yuko
+
+Match 2
+       I W Y P
+Blue : 0 1 1 S3
+White: 0 0 0 S2
+===============
+Blue winner by Waza-ari
+
+Match 3
+       I W Y P
+Blue : 0 0 0 S1
+White: 1 0 0 S2
+===============
+White winner by Ippon
+
+Test 2
+******************************************************************************************************************
+
+Enter the file directory: C:\Users\EsauH\Desktop\judo2.txt
+
+Match 1
+       I W Y P
+Blue : 1 0 1 0
+White: 0 0 0 H
+===============
+Blue winner by Ippon
+
+Match 2
+       I W Y P
+Blue : 0 1 1 S3
+White: 0 0 0 S2
+===============
+Blue winner by Waza-ari
+
+Match 3
+       I W Y P
+Blue : 1 0 0 S1
+White: 0 1 0 S4
+===============
+Blue winner by Ippon
+
+Match 4
+       I W Y P
+Blue : 0 0 0 S1
+White: 1 0 0 S2
+===============
+White winner by Ippon

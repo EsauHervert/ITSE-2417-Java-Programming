@@ -1,0 +1,44 @@
+Test 1
+******************************************************************************************************************
+
+This Program will calculate the resistance of a resistor.
+
+Enter the first color: Blue
+Enter the second color: Black
+Enter the third color: Brown
+Enter the fourth color.
+If there is no fourth color, enter "None": Silver
+
+The Resistance is: 6000 Ohms.
+The Colors are: Blue, Black, Brown, Silver.
+The Tolerance is ± 10.0.
+
+Test 2
+******************************************************************************************************************
+
+This Program will calculate the Resistance of a Resistor.
+
+Enter the first color: Green
+Enter the second color: Yellow
+Enter the third color: Black
+Enter the fourth color.
+If there is no fourth color, enter "None": None
+
+The Resistance is: 54 Ohms.
+The Colors are: Green, Yellow, Black.
+The Tolerance is ± 20.0.
+
+Test 3
+******************************************************************************************************************
+
+This Program will calculate the Resistance of a Resistor.
+
+Enter the first color: Green
+Enter the second color: Black
+Enter the third color: Blue
+Enter the fourth color.
+If there is no fourth color, enter "None": Silver
+
+The Resistance is: 500000000 Ohms.
+The Colors are: Green, Black, Blue, Silver.
+The Tolerance is ± 10.0.

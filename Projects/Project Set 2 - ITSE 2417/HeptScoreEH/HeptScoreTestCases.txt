@@ -1,0 +1,31 @@
+Test 1
+**********************************************************************************
+
+This Program will calculate your score for the Heptaton.
+Name: Nafissatou
+
+Please enter the values for the following events:
+100 Meter Hurdle: 13.56
+High Jump: 1.98
+Shot Put: 14.91
+200 Meter Hurdle: 25.10
+Long Jump: 6.58
+Javelin Throw: 53.13
+800 Meter Hurdle: 136.54
+Nafissatou Total Score is: 6810.0.
+
+Test 2
+**********************************************************************************
+
+This Program will calculate your score for the Heptaton.
+Name: Yorgelis
+
+Please enter the values for the following events:
+100 Meter Hurdle: 13.61	
+High Jump: 1.86	
+Shot Put: 13.69	
+200 Meter Hurdle: 24.26
+Long Jump: 6.25
+Javelin Throw: 48.89	
+800 Meter Hurdle: 134.65
+Yorgelis Total Score is: 6481.0.

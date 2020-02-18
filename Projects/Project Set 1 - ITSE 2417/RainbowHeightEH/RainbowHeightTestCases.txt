@@ -1,0 +1,45 @@
+Test 1
+==========================================================
+
+This program will calculate the apparent height of a Rainbow given the
+following parameters:
+        the height of the observer (feet),
+        the distance from the Rainbow (feet).
+
+Please enter your name.
+Name: Esau
+
+Enter your Height x'y" to feet: x [Enter], inches: y [Enter].
+Feet: 6
+Inches: 2
+Esau's height is 6.0 feet 2.0 inches.
+
+Please enter your distance from the Rainbow: 50
+Esau's Distance from the Rainbow is: 50.0000
+
+The Height of the Rainbow is: 51.7164
+
+Enter any numeric value to end this program: 1
+
+Test 2
+=====================================================================
+
+This program will calculate the apparent height of a Rainbow given the
+following parameters:
+        the height of the observer (feet),
+        the distance from the Rainbow (feet).
+
+Please enter your name.
+Name: Alex
+
+Enter your Height x'y" to feet: x [Enter], inches: y [Enter].
+Feet: 6
+Inches: 3
+Alex's height is 6.0 feet 3.0 inches.
+
+Please enter your distance from the Rainbow: 50
+Alex's Distance from the Rainbow is: 50.0000
+
+The Height of the Rainbow is: 51.7997
+
+Enter any numeric value to end this program: 2

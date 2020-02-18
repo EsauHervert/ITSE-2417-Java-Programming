@@ -1,0 +1,83 @@
+Test 1 
+******************************************************************************************************************
+
+This Program will take in a set of words and display those ending with -ED.
+
+Enter the file directory: 
+C:\Users\EsauH\Desktop\words.txt
+abed                abetted             abhorred            
+abovementioned      absentminded        abutted             
+added               admitted            aforementioned      
+agreed              airspeed            allied              
+allotted            annulled            antiqated           
+applied             ashamed             averred             
+balled              barefaced           bayed               
+bed                 bedimmed            besotted            
+bespectacled        biconnected         bindweed            
+birdseed            bled                bleed               
+bloodshed           bocklogged          bodied              
+bootlegged          bootstrapped        bred                
+breed               bugeyed             buried              
+buttonweed          cancelled           certified           
+checksummed         chickweed           clearheaded         
+coed                combatted           committed           
+compelled           concurred           conferred           
+continued           controlled          coolheaded          
+corralled           cottonseed          creed               
+cried               daybed              deathbed            
+debugged            decontrolled        deed                
+deferred            demented            demitted            
+demurred            deterred            died                
+dispelled           dried               eavesdropped        
+embed               embedded            emitted             
+employed            eqipped             evenhanded          
+exceed              excelled            expelled            
+extolled            eyed                fangled             
+farfetched          farsighted          featherbed          
+fed                 feed                filled              
+finessed            flatbed             flaxseed            
+fled                focussed            formatted           
+frayed              freed               fried               
+glossed             glued               greed               
+grilled             hackneyed           halfhearted         
+handicapped         hardboiled          hatred              
+heed                highhanded          hotbed              
+hued                hundred             impelled            
+inbred              inbreed             incurred            
+indebted            indeed              inferred            
+infrared            keyed               kidnapped           
+kindred             lapelled            led                 
+lied                lighthearted        linseed             
+locoweed            lopseed             lopsided            
+malformed           malnourished        malposed            
+manumitted          married             milkweed            
+mimicked            naked               nearsighted         
+need                newlywed            nosebleed           
+occurred            oersted             oilseed             
+omitted             panicked            parallelepiped      
+patrolled           peed                permitted           
+picnicked           plagued             preferred           
+presumed            proceed             programmed          
+propelled           puffed              pumpkinseed         
+qalified            ragweed             rawboned            
+rebelled            rebutted            recurred            
+red                 reed                referred            
+regretted           relayed             remitted            
+repelled            reqited             rerouted            
+retrofitted         revved              roadbed             
+sacred              salaried            screed              
+seaweed             seed                seedbed             
+seethed             shamefaced          shed                
+shied               shortsighted        shred               
+simpleminded        singlehanded        skied               
+sled                spayed              sped                
+speed               splayed             sqatted             
+stayed              steed               submitted           
+subsumed            succeed             suntanned           
+taxied              ted                 teethed             
+testbed             thoroughbred        tied                
+trafficked          transferred         transmitted         
+transshipped        tried               tweed               
+warmhearted         watershed           wearied             
+wed                 weed                wholehearted        
+woodshed            
